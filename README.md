@@ -2,7 +2,7 @@
 Olá, meu nome é Lauro! Sejam bem-vindos a minha página no GitHub!
 
 ## Sobre mim
-Sou um usuário de gato laranja 🐈. Possuo interesso pelas áreas de desenvolvimento web e software, atualmente atuo na área de manutenção de computadores desktop. Sou entusiasta em sistemas baseados no Linux, em especial os desenvolvidos a partir da base do Ubuntu, e também uso Windows regularmente.
+Sou usuário de gato laranja 🐈. Possuo interesse pelas áreas de desenvolvimento web e software, atualmente trabalho na área de manutenção de computadores desktop. Sou entusiasta em sistemas baseados no Linux, em especial os desenvolvidos a partir da base do Ubuntu, e também uso Windows regularmente.
 Atualmente estou estudando ferramentas de automação de documentos e planilhas por meio das ferramentas disponíveis no Google Drive.
 
 <h2> Interesse em </h2>
