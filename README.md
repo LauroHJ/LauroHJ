@@ -7,7 +7,7 @@ Atualmente estou estudando ferramentas de automação de documentos e planilhas 
 
 <h2> Interesse em </h2>
 
-<div style="display: inline_block" align="center">
+<div style="display: inline-block" align="center">
 <br/>
 
   <img align="center" alt="LauroHJ-HTML" height="50" width="40" margin="30px" 
