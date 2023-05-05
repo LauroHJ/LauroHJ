@@ -34,11 +34,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>-->
   <br/>
   <br/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroHJ&layout=compact&langs_count=7&theme=tokyonight%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroHJ&layout=compact&langs_count=7&theme=tokyonight"/>
  
   <br/>
   <br/>
-</div> 
-
+    </div>
 # Contato
 Pode me contactar por meio de meu email pessoal: laurohenchenjunior@gmail.com
