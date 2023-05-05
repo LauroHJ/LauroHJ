@@ -17,11 +17,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-origina
   
   <img align="center" alt="Augusto-css" height="50" width="40" margin="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
  
-  <img align="center" alt="jams-Bootstrap" height="60" width="50" margin="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img align="center" alt="jams-Bootstrap" height="60" width="50" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
  
-  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
 <br><br>
 </div>
