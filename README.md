@@ -28,6 +28,7 @@ Atualmente estou estudando ferramentas de automação de documentos e planilhas 
 ## Projetos
 -[Agrotoxicos](https://github.com/LauroHJ/Agrotoxicos)
 
+---
 <div align="center">
 
   <br/>
@@ -37,6 +38,7 @@ Atualmente estou estudando ferramentas de automação de documentos e planilhas 
  
   <br/>
   <br/>
-    </div>
+</div>
+    
 # Contato
 Pode me contactar por meio de meu email pessoal: laurohenchenjunior@gmail.com
