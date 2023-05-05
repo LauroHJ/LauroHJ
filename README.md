@@ -18,9 +18,9 @@ Atualmente estou estudando ferramentas de automação de documentos e planilhas 
  
   <img align="center" alt="jams-Bootstrap" height="60" width="50" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
  
-  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="LauroHJ-Js" height="40" width="50" margin="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
 <br><br>
 </div>
