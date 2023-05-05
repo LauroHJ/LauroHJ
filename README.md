@@ -9,9 +9,11 @@ Atualmente estou estudando ferramentas de automação de documentos e planilhas 
 
 <div style="display: inline_block" align="center">
 <br/>
-<img align="center" alt="LauroHJ-HTML" height="50" width="40" margin="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg%22/%3E
 
-<img align="center" alt="jamz-HTML" height="50" width="40" margin="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="LauroHJ-HTML" height="50" width="40" margin="30px" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+
+  <img align="center" alt="jamz-HTML" height="50" width="40" margin="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   
   <img align="center" alt="Augusto-css" height="50" width="40" margin="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
  
