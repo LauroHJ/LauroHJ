@@ -3,9 +3,12 @@ Olá, meu nome é Lauro! Sejam bem-vindos a minha página no GitHub!
 
 ## Sobre mim
 Usuário de gato laranja 🐈 e necromancer de equipamentos eletronicos nas horas vagas.
+
 Sou formado em Téc. Informática pelo IFMS e formado em Téc. Eletrotécnica pelo SENAI-MS, atualmente estou cursando Engenharia de Computação pela UFMS.
+
 Por momento, programo e reparo eletrônicos por hobbie, tenho interesse em realizar projetos com arduíno e outras plataformas, talvez em breve alguns 
 projetos antigos serão revisados e postados :)
+
 Dentre outras áreas, estou explorando ainda e descobrindo novos interesses, por momento pretendo me aprofundar mais Linux e em linguagens de baixo nível.
 Todos são bem vindos!!
 
