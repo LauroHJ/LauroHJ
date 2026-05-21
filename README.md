@@ -2,8 +2,12 @@
 Olá, meu nome é Lauro! Sejam bem-vindos a minha página no GitHub!
 
 ## Sobre mim
-Sou usuário de gato laranja 🐈. Possuo interesse pelas áreas de desenvolvimento web e software, atualmente trabalho na área de manutenção de computadores desktop. Sou entusiasta em sistemas baseados no Linux, em especial os desenvolvidos a partir da base do Ubuntu, e também uso Windows regularmente.
-Atualmente estou estudando ferramentas de automação de documentos e planilhas por meio das ferramentas disponíveis no Google Drive.
+Usuário de gato laranja 🐈 e necromancer de equipamentos eletronicos nas horas vagas.
+Sou formado em Téc. Informática pelo IFMS e formado em Téc. Eletrotécnica pelo SENAI-MS, atualmente estou cursando Engenharia de Computação pela UFMS.
+Por momento, programo e reparo eletrônicos por hobbie, tenho interesse em realizar projetos com arduíno e outras plataformas, talvez em breve alguns 
+projetos antigos serão revisados e postados :)
+Dentre outras áreas, estou explorando ainda e descobrindo novos interesses, por momento pretendo me aprofundar mais Linux e em linguagens de baixo nível.
+Todos são bem vindos!!
 
 <h2> Interesse em </h2>
 
@@ -41,4 +45,4 @@ Atualmente estou estudando ferramentas de automação de documentos e planilhas 
 </div>
     
 # Contato
-Pode me contactar por meio de meu email pessoal: laurohenchenjunior@gmail.com
+Podem me contactar por meio de meu email pessoal: lauro.h.j@outlook.com
