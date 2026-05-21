@@ -10,6 +10,7 @@ Por momento, programo e reparo eletrônicos por hobbie, tenho interesse em reali
 projetos antigos serão revisados e postados :)
 
 Dentre outras áreas, estou explorando ainda e descobrindo novos interesses, por momento pretendo me aprofundar mais Linux e em linguagens de baixo nível.
+
 Todos são bem vindos!!
 
 <h2> Interesse em </h2>
