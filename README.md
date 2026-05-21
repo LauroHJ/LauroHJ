@@ -35,18 +35,6 @@ Todos são bem vindos!!
 
 ## Projetos
 -[Agrotoxicos](https://github.com/LauroHJ/Agrotoxicos)
-
----
-<div align="center">
-
-  <br/>
-  <br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauroHJ&layout=compact&langs_count=7&theme=tokyonight"/>
- 
-  <br/>
-  <br/>
-</div>
     
 # Contato
 Podem me contactar por meio de meu email pessoal: lauro.h.j@outlook.com
